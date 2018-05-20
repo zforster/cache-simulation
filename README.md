@@ -1,4 +1,4 @@
-# Cache Simulation - Operating Systems Assessment (100%)
+# Cache Simulation - Operating Systems Assessment
 A program to simulate a cache on given files using the least recently used (LRU) replacement strategy.
 
 # Input
