@@ -1,5 +1,5 @@
 # Cache Simulation
-A program to simulate a cache on given files using a least recently used (LRU) replacement strategy.
+A program to simulate a cache on given files using the least recently used (LRU) replacement strategy.
 
 # Input
 The first line describes the cache. Each of the following lines describes a memory access.
